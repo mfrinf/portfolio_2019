@@ -1,0 +1,43 @@
+header {
+			color: blue;			
+			border: dashed green;
+		}
+
+div {
+	width: 20%;
+	height: 30%;
+	margin: 0% auto;
+	padding: 5%;
+	border: dashed black;
+}
+
+table {
+	margin: 0 auto;
+	border: 1px solid black;
+	border-collapse: collapse;
+	
+}
+
+th{
+	background-color: grey;
+	border: 1px solid black;	
+}
+td{	
+	border: 1px solid black;
+	padding: 2%;
+}
+
+.white {
+	color:black;
+	background-color: white;
+}
+
+.black {
+	color:white;
+	background-color: black;
+}
+
+#unique {
+	color:white;
+	background-color: red;
+}
